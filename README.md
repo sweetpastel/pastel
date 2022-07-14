@@ -1,6 +1,8 @@
 # Pastel
 A color scheme that might burn your eyes while staring at it
 
+README WIP
+
 # Pallete
 
 The improved version
