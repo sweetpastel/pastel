@@ -1,7 +1,7 @@
 # Pastel
 A smooth pinkish color scheme inspired by pastel foods.
 
-README WIP
+It uses a dark theme as it's background and have no plans making a light theme.
 
 # Pallete
 
