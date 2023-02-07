@@ -1,5 +1,5 @@
 # Pastel
-A color scheme that might burn your eyes while staring at it
+A smooth pinkish color scheme inspired by pastel foods.
 
 README WIP
 
