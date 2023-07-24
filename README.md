@@ -5,6 +5,26 @@ It uses a dark theme as it's background and have no plans making a light theme.
 
 # Pallete
 
+<h2 align="center"><b>Base Colors</b></h2>
+<table align="center">
+  <tr>
+    <th><kbd><b>Eerie black</b></kbd></th>
+    <th><kbd><b>Misty rose</b></kbd></th>
+  </tr>
+  <tr>
+    <th><img src="https://raw.githubusercontent.com/SweetPastel/Pastel/main/assets/red-normal.png" width="100px" ></a></th>
+    <th><img src="https://raw.githubusercontent.com/SweetPastel/Pastel/main/assets/green-normal.png" width="100px" ></a></th>
+  </tr>
+  <tr>
+    <th><kbd>#1B1F23</kbd></th>
+    <th><kbd>#FFDEDE</kbd></th>
+  </tr>
+  <tr>
+    <th><kbd>27, 31, 35</kbd></th>
+    <th><kbd>255, 222, 222</kbd></th>
+  </tr>
+</table>
+
 <h2 align="center"><b>Normal Colors</b></h2>
 <table align="center">
   <tr>
@@ -74,5 +94,33 @@ It uses a dark theme as it's background and have no plans making a light theme.
     <th><kbd>183, 223, 251</kbd></th>
     <th><kbd>226, 192, 252</kbd></th>
     <th><kbd>221, 232, 255</kbd></th>
+  </tr>
+</table>
+
+<h2 align="center"><b>White/Dark Shades</b></h2>
+<table align="center">
+  <tr>
+    <th><kbd><b>Darkest</b></kbd></th>
+    <th><kbd><b>Darker</b></kbd></th>
+    <th><kbd><b>Anti-flash white</b></kbd></th>
+    <th><kbd><b>Seasalt</b></kbd></th>
+  </tr>
+  <tr>
+    <th><img src="https://raw.githubusercontent.com/SweetPastel/Pastel/main/assets/red-light.png" width="100px" ></a></th>
+    <th><img src="https://raw.githubusercontent.com/SweetPastel/Pastel/main/assets/green-light.png" width="100px" ></a></th>
+    <th><img src="https://raw.githubusercontent.com/SweetPastel/Pastel/main/assets/yellow-light.png" width="100px" ></a></th>
+    <th><img src="https://raw.githubusercontent.com/SweetPastel/Pastel/main/assets/blue-light.png" width="100px" ></a></th>
+  </tr>
+  <tr>
+    <th><kbd>#161A1E</kbd></th>
+    <th><kbd>#22262A</kbd></th>
+    <th><kbd>#EEEFF0</kbd></th>
+    <th><kbd>#F8F9FA</kbd></th>
+  </tr>
+  <tr>
+    <th><kbd>22, 26, 30</kbd></th>
+    <th><kbd>34, 38, 42</kbd></th>
+    <th><kbd>238, 239, 240</kbd></th>
+    <th><kbd>248, 249, 250</kbd></th>
   </tr>
 </table>
