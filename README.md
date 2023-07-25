@@ -1,9 +1,9 @@
-# Pastel
-A smooth pinkish color scheme inspired by pastel foods.
+# pastel
+a smooth pinkish color scheme inspired by pastel foods
 
-It uses a dark theme as it's background and have no plans making a light theme.
+it uses a dark theme as it's background and have no plans making a light theme
 
-# Pallete
+# pallete
 
 <h2 align="center"><b>Base Colors</b></h2>
 <table align="center">
