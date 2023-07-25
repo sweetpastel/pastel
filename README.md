@@ -12,8 +12,8 @@ it uses a dark theme as it's background and have no plans making a light theme
     <th><kbd><b>Misty rose</b></kbd></th>
   </tr>
   <tr>
-    <th><img src="https://raw.githubusercontent.com/SweetPastel/Pastel/main/assets/red-normal.png" width="100px" ></a></th>
-    <th><img src="https://raw.githubusercontent.com/SweetPastel/Pastel/main/assets/green-normal.png" width="100px" ></a></th>
+    <th><img src="https://raw.githubusercontent.com/SweetPastel/Pastel/main/assets/eerie_black.png" width="100px" ></a></th>
+    <th><img src="https://raw.githubusercontent.com/SweetPastel/Pastel/main/assets/misty_rose.png" width="100px" ></a></th>
   </tr>
   <tr>
     <th><kbd>#1B1F23</kbd></th>
@@ -36,12 +36,12 @@ it uses a dark theme as it's background and have no plans making a light theme
     <th><kbd><b>Lavender Blue</b></kbd></th>
   </tr>
   <tr>
-    <th><img src="https://raw.githubusercontent.com/SweetPastel/Pastel/main/assets/red-normal.png" width="100px" ></a></th>
-    <th><img src="https://raw.githubusercontent.com/SweetPastel/Pastel/main/assets/green-normal.png" width="100px" ></a></th>
-    <th><img src="https://raw.githubusercontent.com/SweetPastel/Pastel/main/assets/yellow-normal.png" width="100px" ></a></th>
-    <th><img src="https://raw.githubusercontent.com/SweetPastel/Pastel/main/assets/blue-normal.png" width="100px" ></a></th>
-    <th><img src="https://raw.githubusercontent.com/SweetPastel/Pastel/main/assets/purple-normal.png" width="100px" ></a></th>
-    <th><img src="https://raw.githubusercontent.com/SweetPastel/Pastel/main/assets/cyan-normal.png" width="100px" ></a></th>
+    <th><img src="https://raw.githubusercontent.com/SweetPastel/Pastel/main/assets/pastel_pink.png" width="100px" ></a></th>
+    <th><img src="https://raw.githubusercontent.com/SweetPastel/Pastel/main/assets/celadon.png" width="100px" ></a></th>
+    <th><img src="https://raw.githubusercontent.com/SweetPastel/Pastel/main/assets/medium_champagne.png" width="100px" ></a></th>
+    <th><img src="https://raw.githubusercontent.com/SweetPastel/Pastel/main/assets/pale_cerulean.png" width="100px" ></a></th>
+    <th><img src="https://raw.githubusercontent.com/SweetPastel/Pastel/main/assets/wisteria.png" width="100px" ></a></th>
+    <th><img src="https://raw.githubusercontent.com/SweetPastel/Pastel/main/assets/lavender_blue.png" width="100px" ></a></th>
   </tr>
   <tr>
     <th><kbd>#E5A3A1</kbd></th>
@@ -72,12 +72,12 @@ it uses a dark theme as it's background and have no plans making a light theme
     <th><kbd><b>Lavender Web</b></kbd></th>
   </tr>
   <tr>
-    <th><img src="https://raw.githubusercontent.com/SweetPastel/Pastel/main/assets/red-light.png" width="100px" ></a></th>
-    <th><img src="https://raw.githubusercontent.com/SweetPastel/Pastel/main/assets/green-light.png" width="100px" ></a></th>
-    <th><img src="https://raw.githubusercontent.com/SweetPastel/Pastel/main/assets/yellow-light.png" width="100px" ></a></th>
-    <th><img src="https://raw.githubusercontent.com/SweetPastel/Pastel/main/assets/blue-light.png" width="100px" ></a></th>
-    <th><img src="https://raw.githubusercontent.com/SweetPastel/Pastel/main/assets/purple-light.png" width="100px" ></a></th>
-    <th><img src="https://raw.githubusercontent.com/SweetPastel/Pastel/main/assets/cyan-light.png" width="100px" ></a></th>
+    <th><img src="https://raw.githubusercontent.com/SweetPastel/Pastel/main/assets/spanish_pink.png" width="100px" ></a></th>
+    <th><img src="https://raw.githubusercontent.com/SweetPastel/Pastel/main/assets/tea_green.png" width="100px" ></a></th>
+    <th><img src="https://raw.githubusercontent.com/SweetPastel/Pastel/main/assets/blond.png" width="100px" ></a></th>
+    <th><img src="https://raw.githubusercontent.com/SweetPastel/Pastel/main/assets/uranian_blue.png" width="100px" ></a></th>
+    <th><img src="https://raw.githubusercontent.com/SweetPastel/Pastel/main/assets/mauve.png" width="100px" ></a></th>
+    <th><img src="https://raw.githubusercontent.com/SweetPastel/Pastel/main/assets/lavender_web.png" width="100px" ></a></th>
   </tr>
   <tr>
     <th><kbd>#F9B7B5</kbd></th>
@@ -106,10 +106,10 @@ it uses a dark theme as it's background and have no plans making a light theme
     <th><kbd><b>Seasalt</b></kbd></th>
   </tr>
   <tr>
-    <th><img src="https://raw.githubusercontent.com/SweetPastel/Pastel/main/assets/red-light.png" width="100px" ></a></th>
-    <th><img src="https://raw.githubusercontent.com/SweetPastel/Pastel/main/assets/green-light.png" width="100px" ></a></th>
-    <th><img src="https://raw.githubusercontent.com/SweetPastel/Pastel/main/assets/yellow-light.png" width="100px" ></a></th>
-    <th><img src="https://raw.githubusercontent.com/SweetPastel/Pastel/main/assets/blue-light.png" width="100px" ></a></th>
+    <th><img src="https://raw.githubusercontent.com/SweetPastel/Pastel/main/assets/eerie_black_darkest.png" width="100px" ></a></th>
+    <th><img src="https://raw.githubusercontent.com/SweetPastel/Pastel/main/assets/eerie_black_darker.png" width="100px" ></a></th>
+    <th><img src="https://raw.githubusercontent.com/SweetPastel/Pastel/main/assets/anti_flash_white.png" width="100px" ></a></th>
+    <th><img src="https://raw.githubusercontent.com/SweetPastel/Pastel/main/assets/seasalt.png" width="100px" ></a></th>
   </tr>
   <tr>
     <th><kbd>#161A1E</kbd></th>
